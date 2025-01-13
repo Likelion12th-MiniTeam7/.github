@@ -32,9 +32,7 @@
 | **김나연** | **이재현** | **조수빈** | **김정주** | **이홍규** | **홍수지** |
 | :------: |  :------: | :------: | :------: | :------: | :------: |
 | Team Leader, BE |  BE | BE | FE | FF | FE |
-| <img src="나연이사진" height=200 > <br/> @나연이 깃허브 아이디 ](나연이 깃허브 링크) |  [<img src="재현이 사진" height=200> <br/> @재현이 깃허브 아이디](재현이 깃허브 링크) | [<img src="수빈이사진" height=200> <br/> @수빈이 깃허브 아이디 ](수빈이 깃허브 링크) | [<img src="https://github.com/user-attachments/assets/103798ae-f186-4604-b473-76ce83f76f92" height=200 > <br/> @KimJJRoSY ](https://github.com/KimJJRoSY) | [<img src="홍규 사진" height=200> <br/> @홍규 깃허브 아이디](홍규 깃허브 링크 ) | [<img src="수지 사진" height=200> <br/> @수지 깃허브 아이디](수지 깃허브 링크) | 
-
-
+| <img src="나연이사진" height=200 > <br/> @나연이 깃허브 아이디 ](나연이 깃허브 링크) |  [<img src="재현이 사진" height=200> <br/> @재현이 깃허브 아이디](재현이 깃허브 링크) | [<img src="수빈이사진" height=200> <br/> @수빈이 깃허브 아이디 ](수빈이 깃허브 링크) | [<img src="https://github.com/user-attachments/assets/103798ae-f186-4604-b473-76ce83f76f92" height=200 > <br/> @KimJJRoSY ](https://github.com/KimJJRoSY) | [<img src="홍규 사진" height=200> <br/> @홍규 깃허브 아이디](홍규 깃허브 링크 ) | <img src="https://github.com/user-attachments/assets/67f8a2a0-6909-4339-8bee-520bcae29631" width = 150 height=200> <br/> [@norangsuji](https://github.com/norangsuji) | 
 <div align="left">
 
 
